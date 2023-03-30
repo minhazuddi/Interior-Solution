@@ -58,10 +58,10 @@ const total = (total) => {
 
 const greetings = () => {
   const totalPrice = parseFloat(
-    document.getElementById("total-price").innerText
+    document.getElementById("final-price").innerText
   );
   if (totalPrice == 0) {
-    swal("Please add some books at cart", "", "error");
+    swal("Please add some wallpapers at cart", "", "error");
   } else {
     swal(
       "Thanks for your Order",
@@ -76,5 +76,7 @@ const greetings = () => {
     document.getElementById("subtotal").innerText = 0;
     document.getElementById("tax").innerText = 0;
     document.getElementById("total-price").innerText = 0;
+    document.getElementById("dis-price").innerText = 0;
+    document.getElementById("final-price").innerText = 0;
   }
 };

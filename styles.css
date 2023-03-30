@@ -9,8 +9,7 @@
 #review,
 #blog,
 #contact,
-#about
-#tracking {
+#about #tracking {
   scroll-margin-top: 10vh;
 }
 /* ==========================================
@@ -384,9 +383,8 @@ header {
   gap: 10vw;
 }
 
-address h4{
+address h4 {
   color: #2d0116;
-
 }
 /* ================================================
                 blog section
