@@ -1,14 +1,14 @@
 
-# BOOKISH
+# INTERIOR SOLUTION
 
-Bookish is a book store that sells books online. We have a wide range of books from different categories. We also have a blog where we post articles about books and authors.
+Interior Solution is a wallpaper store that sells wallpapers online. We have a wide range of wallpapers from different categories. We also have a blog where we post articles about wallpapers.
 
-<img src="https://github.com/mdadul/Bookish/blob/master/img/logo-no-background.png" width="400px">
+<img src="https://github.com/minhazuddi/Interior-Solution/blob/main/img/logo2.jpeg" width="400px">
 
 
 ## Author
 
-- [EMDADUL ISLAM](https://github.com/mdadul/)
+- [Minhaz Uddin](https://github.com/minhazuddi/)
 
 
 ## Run Locally
@@ -17,7 +17,7 @@ Please follow the below instructions to run this project in your machine:
 
 1. Clone this repository
    ```bash
-   git clone https://github.com/mdadul/Bookish.git
+   git clone https://github.com/minhazuddi/Interior-Solution.git
    ```
 2. Open index.html file with VS Code live server plugin.
 
@@ -33,8 +33,6 @@ Please follow the below instructions to run this project in your machine:
 
 I learned while building this project JS DOM manipulation & Fetch API
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mdadul.github.io/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emdadulislam/)
 
 
 ## Tech Stack
@@ -48,4 +46,4 @@ Javascript, HTML, CSS...
 
 ## Feedback
 
-If you have any feedback, please reach out to us at emdadulislam162@gmail.com
+If you have any feedback, please reach out to us at minhazuddin4615@gmail.com
